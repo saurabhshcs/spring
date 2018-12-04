@@ -36,5 +36,10 @@ public class TopicService {
 
 	public void updateTopic(String id, Topic topic) {
 		//topics.stream().filter(t->t.getId(id)).mapToObj(i->id[i])).collect(Collectors.toList());
+		//This method needs to be done 
+	}
+	
+	public void deleteTopic(final String id) {
+		//This method needs to be done 
 	}
 }

@@ -1,2 +1,2 @@
 # spring
-This is a spring practice repository
+This is a spring course repository
